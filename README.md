@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Link to web app: https://code-sample-ahxqk993t-thomas-t-huynh.vercel.app/notes
+Link to web app: https://code-sample-ahxqk993t-thomas-t-huynh.vercel.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
